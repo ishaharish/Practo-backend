@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PractoBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932140748ef96e6cf8ff70eb04de714d654137fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c99dccb0f3c32eaede25c6b24f4d61abd383f4a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PractoBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PractoBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

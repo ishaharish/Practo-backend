@@ -74,8 +74,8 @@ pipeline {
                     -e ASPNETCORE_ENVIRONMENT=Development ^
                     -e ASPNETCORE_URLS=http://+:8080 ^
                     -e MYSQL_CONNECTION_STRING="Server=%MYSQL_CONT%;Port=3306;Database=%MYSQL_DB%;User=root;Password=%MYSQL_PWD%;" ^
-                    -e JWT_ISSUER=linkedin-api ^
-                    -e JWT_AUDIENCE=linkedin-clone ^
+                    -e JWT_ISSUER=practo-api ^
+                    -e JWT_AUDIENCE=practo-clone ^
                     -e JWT_SECRET=change-this-development-secret-at-least-32-characters ^
                     -e JWT_ACCESS_TOKEN_MINUTES=60 ^
                     -e JWT_REFRESH_TOKEN_DAYS=30 ^
