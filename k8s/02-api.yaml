@@ -33,7 +33,7 @@ spec:
             - containerPort: 8080
           readinessProbe:
             httpGet:
-              path: /api/products
+              path: /api/Doctors
               port: 8080
             initialDelaySeconds: 20
             periodSeconds: 10
