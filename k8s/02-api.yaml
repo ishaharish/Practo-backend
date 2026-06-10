@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: product-api
-          image: fullstackacr.azurecr.io/product-api:latest
+          image: ishaacr.azurecr.io/product-api:latest
           env:
             - name: ConnectionStrings__DefaultConnection
               valueFrom:
