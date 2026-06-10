@@ -4,7 +4,7 @@ metadata:
   name: api-secret
 type: Opaque
 stringData:
-  connection-string: "Server=app-mysql;Port=3306;Database=productdb;User=root;Password=root;"
+  connection-string: "Server=app-mysql;Port=3306;Database=productdb;User=root;Password=rootpassword;"
 ---
 apiVersion: apps/v1
 kind: Deployment
