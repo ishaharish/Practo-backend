@@ -46,5 +46,5 @@ spec:
   selector:
     app: product-api
   ports:
-    - port: 5000
+    - port: 8080
       targetPort: 8080
